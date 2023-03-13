@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Manufac-accessment/static/css/main.86ff46db.css",
+    "main.js": "/Manufac-accessment/static/js/main.fb0d9e9c.js",
+    "index.html": "/Manufac-accessment/index.html",
+    "main.86ff46db.css.map": "/Manufac-accessment/static/css/main.86ff46db.css.map",
+    "main.fb0d9e9c.js.map": "/Manufac-accessment/static/js/main.fb0d9e9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86ff46db.css",
+    "static/js/main.fb0d9e9c.js"
+  ]
+}
