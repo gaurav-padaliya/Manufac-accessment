@@ -3,10 +3,11 @@
   <a href="" target="_blank">gaurav.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Public/read-me-imgss.png" />
+  <img alt="Demo" src="./public/read-me-imgss.png" />
+  <img alt="Demo" src="./public/read-me-imgss.png" />
 </div>
 <div align="center">
-  <img alt="Demo" src="./Public/readme-img1.png" />
+  <img alt="Demo" src="./public/readme-img1.png" />
 </div>
 
 <br/>
