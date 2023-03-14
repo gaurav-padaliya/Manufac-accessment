@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="" target="_blank">gaurav.tech</a>
+  <a href="https://gaurav-padaliya.github.io/Manufac-accessment/" target="_blank">gaurav.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./public/read-me-imgss.png" />
