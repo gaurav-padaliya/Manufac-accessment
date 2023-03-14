@@ -7,7 +7,7 @@
   <img alt="Demo" src="./public/read-me-imgssback.png" />
 </div>
 <div align="center">
-  <img alt="Demo" src="./public/readme-img1.png" />
+  <img alt="Demo" src="./public/readme-img1new.png" />
 </div>
 
 <br/>
