@@ -33,10 +33,23 @@ function App() {
   }
   
   function getBarData(): void {
+    const array1 :{value:number,count:number}[] = [];
     data.forEach((obj) => {
-      barData.first.push(obj["Malic Acid"]);
-      barData.second.push(obj["Alcohol"]);
+      if(array1[obj["Alcohol"]-1]){
+
+        array1[obj["Alcohol"]-1].value += obj["Malic Acid"]
+        array1[obj["Alcohol"]-1].count += 1
+      }else{
+        array1[obj["Alcohol"]-1] = {value:0,count:0}
+        array1[obj["Alcohol"]-1].value = obj["Malic Acid"]
+        array1[obj["Alcohol"]-1].count = 1
+      }
     })
+    array1.forEach((el,ind)=>{
+      barData.first.push(ind+1);
+      barData.second.push(el.value/el.count);
+    })
+
   }
   
   useEffect(() => {
