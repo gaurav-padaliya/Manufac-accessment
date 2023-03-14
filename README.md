@@ -1,3 +1,13 @@
+<h2 align="center">
+  Portfolio Website - v2.0<br/>
+  <a href="https://Portfolio-gaurav-livid.vercel.app/" target="_blank">gaurav.tech</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="./Public/readme-img1.png" />
+</div>
+
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

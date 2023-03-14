@@ -46,6 +46,9 @@ function App() {
   
   return (
     <div className="App">
+      <header className="App-header" style={{display:"flex",justifyContent:"space-evenly"}}>
+        MANUFAC Accessment
+      </header>
       <div className="charts-container">
         <div className="chart">
           <Bar barData={barData} />
