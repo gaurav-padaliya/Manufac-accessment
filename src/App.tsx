@@ -56,6 +56,7 @@ function App() {
     getBarData();
     getScatteringData();
   }, []);
+
   
   return (
     <div className="App">
