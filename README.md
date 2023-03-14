@@ -1,7 +1,10 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://Portfolio-gaurav-livid.vercel.app/" target="_blank">gaurav.tech</a>
+  <a href="" target="_blank">gaurav.tech</a>
 </h2>
+<div align="center">
+  <img alt="Demo" src="./Public/read-me-imgss.png" />
+</div>
 <div align="center">
   <img alt="Demo" src="./Public/readme-img1.png" />
 </div>
